@@ -27,7 +27,8 @@ To build iems you need a 3D-scan of your ear. Audiologists can make an impressio
 |                  | M3 round stanoff 60mm                    | Aliexpress                                      | 
 | Connectors       | 2x PJ392 stereo female socket            | Aliexpress                                      |  
 | Earpads          | 105mm                                    | Aliexpress                                      |  
-| Mesh             | Stainless Steel, 400Mesh and 20Mesh      | Aliexpress                                      |  
+| Mesh             | Stainless Steel, 400Mesh and 20Mesh      | Aliexpress                                      | 
+| Headband         | Headband for Beyerdynamic DTXX0          | [Beyerdynamic](https://www.beyerdynamic.de/metallbugel.html)|  
 
 ## Assembly
 ...
