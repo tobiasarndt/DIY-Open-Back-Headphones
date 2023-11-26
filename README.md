@@ -1,4 +1,4 @@
-# DIY-Opent-Back-Headphones
+# DIY-Open-Back-Headphones
 Do it yourself 3D printed open back headphones based on the [Aurorus Borealis](https://www.aurorusaudio.com/Borealis-p133657519) headphones.
 ![image](https://github.com/tobiasarndt/DIY-Opent-Back-Headphones/assets/54204861/683ca0a4-aceb-4cf5-b6ca-71f81a907c6e)
 This project is based on the work of [VasilyevichDrago](https://www.thingiverse.com/thing:5090443). I canged the driver mount to accomodate the 50mm beryllium coated driver. The mounting system of the earcups was also changed to reduce spinning and make the slider friction easier changable.
